@@ -6,7 +6,7 @@ sites:
     url: https://tryamaisec.com/
   - name: Tryam console and API
     url: https://tryamaisec.com/healthz
-  - name: AISec company website
+  - name: AISEC company website
     url: https://aisecsecurity.com/
 
 status-website:
